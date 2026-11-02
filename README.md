@@ -88,7 +88,7 @@ mern-calculator/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mern-calculator.git
+git clone https://github.com/ajinkya029/mern-calculator.git
 ```
 
 ### 2. Navigate to the project directory
